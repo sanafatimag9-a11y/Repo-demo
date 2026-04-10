@@ -3,6 +3,4 @@
 
 For beginners course of devops
 
-hello there
-
-hi
+hi world
